@@ -1,0 +1,12 @@
+.card-header{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  i{
+    cursor: pointer;
+  }
+
+  ul li button{
+    font-weight: bold !important;
+    
+  }
